@@ -1,0 +1,15 @@
+﻿@model ModelDemo.Models.Student // student class ka reference bnana aur controller se object ayega usko store krna 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="bg-dark text-white">
+    <h1>Student Details</h1>
+    <hr />
+    <h3>Roll No:@Model.roll</h3>
+    <h3>Name: @Model.name</h3>
+    <h3>Gender: @Model.gender</h3>
+    <h3>Age: @Model.age</h3>
+    <h3>Course: @Model.course</h3>
+    <h3>Fee: @Model.fee</h3>
+</div>

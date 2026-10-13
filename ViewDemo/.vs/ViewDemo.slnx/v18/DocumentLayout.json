@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS Projects\\ViewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\views\\shared\\default2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\shared\\default2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|e:\\vs projects\\viewdemo\\viewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611FDC06-E0B0-4B35-2677-C97D348AB10C}|ViewDemo\\ViewDemo.csproj|solutionrelative:viewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default2.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Shared\\Default2.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Shared\\Default2.cshtml",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Shared\\Default2.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Shared\\Default2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:20:02.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T07:19:48.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T07:16:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T07:01:12.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T06:47:13.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\VS Projects\\ViewDemo\\ViewDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:46:19.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

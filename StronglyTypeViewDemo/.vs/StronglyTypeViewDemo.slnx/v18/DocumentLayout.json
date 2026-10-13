@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS Projects\\StronglyTypeViewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|e:\\vs projects\\stronglytypeviewdemo\\stronglytypeviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|solutionrelative:stronglytypeviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|e:\\vs projects\\stronglytypeviewdemo\\stronglytypeviewdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|solutionrelative:stronglytypeviewdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|e:\\vs projects\\stronglytypeviewdemo\\stronglytypeviewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5B421B-0E90-BCF0-5350-42C16BCB48C0}|StronglyTypeViewDemo\\StronglyTypeViewDemo.csproj|solutionrelative:stronglytypeviewdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypeViewDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StronglyTypeViewDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T20:47:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypeViewDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypeViewDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T20:38:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StronglyTypeViewDemo\\Models\\Product.cs",
+              "ToolTip": "E:\\VS Projects\\StronglyTypeViewDemo\\StronglyTypeViewDemo\\Models\\Product.cs",
+              "RelativeToolTip": "StronglyTypeViewDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T20:37:09.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
