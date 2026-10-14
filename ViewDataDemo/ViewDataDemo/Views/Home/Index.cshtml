@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    int price = Convert.ToInt32(ViewData["prodPrice"]);
+    int qty = Convert.ToInt32(@ViewData["prodQty"]);
+    int total = price * qty; 
+}
+
+<div class="container">
+    <h3>Product Id: @ViewData["prodId"]</h3>
+    <h3>Product Name: @ViewData["prodName"]</h3>
+    <h3>Product Price: @ViewData["prodPrice"]</h3>
+    <h3>Product Quantity: @ViewData["prodQty"]</h3>
+    <h3>Stock Value: @total</h3>
+</div>
