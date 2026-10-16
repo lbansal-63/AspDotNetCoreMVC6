@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+   <form name="fr" action="/Product/ShowData" method="post">
+        <div>
+            <label>Enter Product Id: </label>
+        </div>
+       <div>
+           <input type="text" name="prodid" />
+       </div>
+
+        <div>
+            <label>Enter Product Name: </label>
+        </div>
+        <div>
+            <input type="text" name="prodname" />
+        </div>
+
+        <div>
+            <label>Enter Product Quantity: </label>
+        </div>
+        <div>
+            <input type="text" name="prodqty" />
+        </div>
+
+        <div>
+            <label>Enter Product Price: </label>
+        </div>
+        <div>
+            <input type="text" name="prodprice" />
+        </div>
+
+        <br />
+
+        <div>
+            <input type="submit" value="send data" />
+        </div>
+   </form>
+</div>  
